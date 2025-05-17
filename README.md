@@ -1,6 +1,6 @@
 # Hi, I'm Scott 
 
-I'm an aspiring **Software Engineer** passionate about **web development** and **coding**. Currently, I'm learning and building projects in **HTML**, **CSS**, **JavaScript**, and **React**. I’m always eager to tackle new challenges and work on meaningful projects.
+I'm an aspiring **Software Engineer** passionate about **web development** and **coding**. Currently, I'm learning and building projects in **HTML**, **CSS**, **JavaScript**,**React**, and **Python**. I’m always eager to tackle new challenges and work on meaningful projects.
 
 ### What I Want To Learn:
 - Front-end development: HTML, CSS, JavaScript, React, Python
