@@ -12,7 +12,7 @@ I'm an aspiring **Software Engineer** passionate about **web development** and *
 - Contributing to open-source projects and collaborating with others.
 
 ### Accomplished:
-- Completing my JavaScript course from Udemy on 5/17/2025
+- Completed my JavaScript course from Udemy on 5/17/2025
 
 ### 🏆 Certification for JavaScript Received on 5/17/2025
 
