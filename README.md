@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Scott
 
-I'm an aspiring **Software Engineer** passionate about **web development** and **coding**. I'm currently learning and building projects using **HTML**, **CSS**, **JavaScript**, **React**, and **Python**. I'm always eager to tackle new challenges and work on meaningful projects.
+I'm an aspiring **Web Developer** passionate about **web development** and **coding**. I'm currently learning and building projects using **HTML**, **CSS**, and **JavaScript**. I'm always eager to tackle new challenges and work on meaningful projects.
 
 ---
 
 ### 🚀 What I’m Learning
 
-- **Front-end**: HTML, CSS, JavaScript, React
-- **Back-end**: Node.js, Express
-- **Tools**: Git, GitHub, VS Code
+- **Front-end**: HTML, CSS, JavaScript,
 
 ---
 
@@ -21,7 +19,7 @@ I'm an aspiring **Software Engineer** passionate about **web development** and *
 
 ### ✅ Recent Achievement
 
-**JavaScript Algorithms and Data Structures**  
+**Java Algorithms and Data Structures**  
 _Certificate of Completion from Udemy - 05/17/2025_  
 [📄 View Certificate (PDF)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a1503ae-e1a4-4764-9f24-af0e93068c4b.pdf)
 
