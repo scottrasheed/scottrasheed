@@ -54,8 +54,7 @@ One of my future projects is **Last World**, a medieval fantasy MMORPG-inspired 
 - freeCodeCamp Responsive Web Design Certification
 - freeCodeCamp JavaScript Algorithms and Data Structures
 - Continuing education in software development
-**Java Algorithms and Data Structures**  
-_Certificate of Completion from Udemy - 05/17/2025_  
+- Certificate of Completion from Udemy - 05/17/2025_  
 [📄 View Certificate (PDF)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a1503ae-e1a4-4764-9f24-af0e93068c4b.pdf)
 ---
 
