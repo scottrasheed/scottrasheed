@@ -57,7 +57,7 @@ One of my future projects is **Last World**, a medieval fantasy MMORPG-inspired 
   
 - Continuing education in software development
   
-- Certificate of Completion from Udemy 
+- Certificate of Java from Udemy 
 [📄 View Certificate (PDF)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a1503ae-e1a4-4764-9f24-af0e93068c4b.pdf)
 
 
