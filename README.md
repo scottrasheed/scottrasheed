@@ -1,12 +1,10 @@
-# Hi, I'm Scott 👋
+# Scott Rasheed
 
-## 💻 Software Developer in Training
+🎮 Future Game Developer | Software Developer in Training
 
-I'm a developer building my skills in web development, programming fundamentals, and game development.
+I'm an aspiring developer building my skills in web development, programming fundamentals, and game development.
 
 My goal is to become a professional software engineer and eventually create large-scale games using modern game engines like Unreal Engine.
-
----
 
 ## 🚀 Current Learning Path
 
@@ -15,9 +13,7 @@ My goal is to become a professional software engineer and eventually create larg
 - Java Programming
 - Data Structures & Algorithms
 - Software Development Fundamentals
-- Game Development (Future Unreal Engine Projects)
-
----
+- Future Game Development with Unreal Engine
 
 ## 🛠️ Technologies & Tools
 
@@ -33,11 +29,9 @@ My goal is to become a professional software engineer and eventually create larg
 - IntelliJ IDEA
 - Replit
 
----
-
 ## 🎮 Future Game Development
 
-My long-term goal is to become a game developer and create original worlds and experiences.
+My long-term goal is to create original worlds and gameplay experiences as a game developer.
 
 One of my future projects is **Last World**, a medieval fantasy MMORPG-inspired game featuring:
 
@@ -47,14 +41,12 @@ One of my future projects is **Last World**, a medieval fantasy MMORPG-inspired 
 - Unique combat mechanics
 - Deep lore and character development
 
----
-
 ## 📚 Certifications & Education
 
 - Completed HTML fundamentals through freeCodeCamp
 - Currently learning CSS fundamentals through freeCodeCamp
 - Working toward freeCodeCamp Responsive Web Design Certification
-- Udemy Java Programming Course Completion Certificate ([View Certificate PDF](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a1503ae-e1a4-4764-9f24-af0e93068c4b.pdf))
+- Completed Udemy Java Programming Course (Certificate Available)
 - Working toward freeCodeCamp JavaScript Algorithms and Data Structures Certification
 - Continuing education in software development and computer science fundamentals
 
@@ -64,14 +56,10 @@ One of my future projects is **Last World**, a medieval fantasy MMORPG-inspired 
 Building practical applications while improving my frontend and programming skills.
 
 ### 🎮 Last World
-A future MMORPG-inspired game project focused on world-building, combat systems, and immersive gameplay.
-
----
+A future MMORPG-inspired game project focused on world-building, combat systems, progression, and immersive gameplay.
 
 ## 📫 Connect With Me
 
 GitHub: [scottrasheed](https://github.com/scottrasheed)
-
----
 
 ⭐ Thanks for visiting my profile!
