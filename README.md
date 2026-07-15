@@ -52,13 +52,11 @@ One of my future projects is **Last World**, a medieval fantasy MMORPG-inspired 
 ## 📚 Certifications & Education
 
 - Completed HTML fundamentals through freeCodeCamp
-- Currently on CSS fundamentals through freeCodeCamp
-- Currently working toward freeCodeCamp Responsive Web Design Certification
-- Currently working toward freeCodeCamp JavaScript Algorithms and Data Structures Certification
+- Currently learning CSS fundamentals through freeCodeCamp
+- Working toward freeCodeCamp Responsive Web Design Certification
+- Udemy Java Programming Course Completion Certificate [📄 View Certificate (PDF)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a1503ae-e1a4-4764-9f24-af0e93068c4b.pdf)
+- Working toward freeCodeCamp JavaScript Algorithms and Data Structures Certification
 - Continuing education in software development and computer science fundamentals
-- Udemy Java Programming Course Completion Certificate
-[📄 View Certificate (PDF)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0a1503ae-e1a4-4764-9f24-af0e93068c4b.pdf)
-
 
 ## 📂 Featured Projects
 
